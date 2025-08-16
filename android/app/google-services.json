@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403376633688",
+    "project_id": "rite-select-d2eb7",
+    "storage_bucket": "rite-select-d2eb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403376633688:android:e6eb8a20ad768924e1d72d",
+        "android_client_info": {
+          "package_name": "com.rite.select"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403376633688-bcdk0lfr131232u9hhvu2h26cplkgobl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNi_JUWb2uDMq-DC09S0bf46xwmMIVy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403376633688-bcdk0lfr131232u9hhvu2h26cplkgobl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

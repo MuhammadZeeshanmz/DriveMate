@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rite Select</string>
+
+    <!-- Replace with your actual Facebook App ID -->
+    <string name="facebook_app_id">25432535</string>
+
+    <!-- Replace with your actual Facebook Client Token -->
+    <string name="facebook_client_token">543534534543</string>
+
+    <!-- Replace "fb" with your Facebook App ID -->
+    <string name="fb_login_protocol_scheme">fb43543535543534</string>
+
+    <string name="flutter_downloader_notification_started">Download started</string>
+    <string name="flutter_downloader_notification_in_progress">Download in progress</string>
+    <string name="flutter_downloader_notification_canceled">Download canceled</string>
+    <string name="flutter_downloader_notification_failed">Download failed</string>
+    <string name="flutter_downloader_notification_complete">Download complete</string>
+    <string name="flutter_downloader_notification_paused">Download paused</string>
+</resources>
